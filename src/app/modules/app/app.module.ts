@@ -1,6 +1,6 @@
 /*
-//||||||Filename: /Users/pippin-29/Thynk-Unlimited/kreas_script_project_vine_1.0/src/app/modules/app/app.module.ts
-//||||||Path: /Users/pippin-29/Thynk-Unlimited/kreas_script_project_vine_1.0
+//||||||Filename: /Users/pippin-29/Thynk-Unlimited/kreas_script_project_vine-_3.0_-/src/app/modules/app/app.module.ts
+//||||||Path: /Users/pippin-29/Thynk-Unlimited/kreas_script_project_vine-_3.0_-
 //||||||Created Date: Friday, March 1st 2024, 8:36:06 pm
 //||||||Author: Daniel haddington
 //||||||
@@ -11,7 +11,6 @@
 
 
 */
-
 
 // node_module imports //
 import { NgModule } from "@angular/core";
@@ -39,7 +38,6 @@ import { GraphComponent } from "../../components/page/grid/graph/graph.component
 
 
 @NgModule ({
-	// Declare Components Used Here To Angular Module
 	declarations: [
 		/** Containers */
 		AppComponent,
@@ -57,18 +55,12 @@ import { GraphComponent } from "../../components/page/grid/graph/graph.component
 		/** Displays */
 		GridLeftComponent,
 		GridRightComponent,
-		GraphComponent,
-		
+		GraphComponent
 	],
-
-	// Notify Angular Module of Other modules in EcoSystem
 	imports : [
 		BrowserModule,
-		RouterModule,
-
+		RouterModule
 	],
-
-	// This Straps Everything Together, Bootstrapping will happen in main.ts //
 	bootstrap: [AppComponent]
 })
 
