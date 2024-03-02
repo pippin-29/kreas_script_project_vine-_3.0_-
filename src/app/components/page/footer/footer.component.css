@@ -1,0 +1,36 @@
+/*
+//||||||Filename: /Users/pippin-29/Thynk-Unlimited/kreas_script_project_vine_1.0/src/app/components/page/footer/footer.component.css
+//||||||Path: /Users/pippin-29/Thynk-Unlimited/kreas_script_project_vine_1.0
+//||||||Created Date: Friday, March 1st 2024, 8:36:06 pm
+//||||||Author: Daniel haddington
+//||||||
+//||||||Copyright (c) 2024 Copyright © [2024] [Daniel Haddington]. All rights reserved.
+*/ 
+
+/* About File:- 
+
+
+*/
+
+
+
+
+.footer {
+	display: flex;
+	color: plum;
+	background-color: black;
+	
+
+	height: 54px;
+	position: relative;
+	border: 2px solid #ccc;
+	border-radius: 64px;
+	padding: 18px;
+}
+
+
+@media (min-width: 1920px) {
+	.footer {
+		height: 110px;
+	}
+}

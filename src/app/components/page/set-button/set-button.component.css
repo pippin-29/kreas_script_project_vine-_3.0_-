@@ -1,0 +1,40 @@
+/*
+//||||||Filename: /Users/pippin-29/Thynk-Unlimited/kreas_script_project_vine_1.0/src/app/components/page/set-button/set-button.component.css
+//||||||Path: /Users/pippin-29/Thynk-Unlimited/kreas_script_project_vine_1.0
+//||||||Created Date: Friday, March 1st 2024, 8:47:38 pm
+//||||||Author: Daniel haddington
+//||||||
+//||||||Copyright (c) 2024 Copyright © [2024] [Daniel Haddington]. All rights reserved.
+*/ 
+
+/* About File:- 
+
+
+*/
+
+.set-button {
+	width: 100%;
+	height: 26px;
+	border-radius: 42px 0px 42px 0px;
+	margin-left: 12px;
+	color: rgb(0, 143, 143);
+	background-color: black;
+}
+
+.set-buttonHover {
+	width: 100%;
+	height: 26px;
+	border-radius: 0px 42px 0px 42px;
+	margin-left: 12px;
+	color: rgb(0, 143, 143);
+	background-color: black;
+}
+
+.set-buttonOnClick {
+	width: 100%;
+	height: 26px;
+	border-radius: 42px 42px 42px 42px;
+	margin-left: 12px;
+	color: rgb(0, 213, 213);
+	background-color: black;
+}

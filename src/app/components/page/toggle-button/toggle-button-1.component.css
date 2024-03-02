@@ -1,0 +1,40 @@
+/*
+//||||||Filename: /Users/pippin-29/Thynk-Unlimited/kreas_script_project_vine_1.0/src/app/components/page/toggle-button/toggle-button-1.component.css
+//||||||Path: /Users/pippin-29/Thynk-Unlimited/kreas_script_project_vine_1.0
+//||||||Created Date: Friday, March 1st 2024, 8:35:40 pm
+//||||||Author: Daniel haddington
+//||||||
+//||||||Copyright (c) 2024 Copyright © [2024] [Daniel Haddington]. All rights reserved.
+*/ 
+
+/* About File:- 
+
+
+*/
+
+
+
+.side-left-button {
+	color: rgb(0, 0, 0);
+	font-size: 13px;
+	background-color: #ccc;
+	width: 100%;
+	height: 25px;
+	border-radius: 22px;
+	margin-left: 5px;
+}
+.side-left-buttonOnClick {
+	color: aqua;
+	background-color: black;
+	width: 100%;
+	height: 25px;
+	border-radius: 22px;
+	margin-left: 5px;
+}
+.side-left-buttonHover {
+	color: black;
+	width: 100%;
+	height: 30px;
+	border-radius: 22px;
+	margin-left: 5px;
+}
