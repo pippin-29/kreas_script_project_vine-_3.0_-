@@ -92,7 +92,7 @@ int main(void)
 
 	md = malloc(sizeof(t_md));
 	init_struct(md);
-	print(md, 64); // print first 32 names
+	print(md, 64);
 	return (0);
 }
 

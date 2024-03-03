@@ -3,11 +3,11 @@ NAME := mindset_instructions
 main: 
 		gcc source/main.c -o $(NAME)
 
-indexl: 
-		gcc source/index_l.c -o indexl
+index: 
+		gcc source/indexer_without_float-tail.c -o indexer_without_float-tail
 
-index3:
-		gcc source/index_3.c -o index3
+indexWft:
+		gcc source/indexer_with_float-tail.c.c -o indexer_with_float-tail
 
 list:
 		gcc source/list.c -o list
