@@ -4,10 +4,11 @@ description: All pages within this space are subject to the below files.
 
 # COPYRIGHT
 
+Updated Sat 2 Mar 11:27pm
+
 {% embed url="https://github.com/pippin-29/kreas_script_project_vine" %}
 
-````perl
-
+```perl
 # **************************************************************************** #
 #                                                                              #
 #                                                         :::      ::::::::    #
@@ -16,95 +17,19 @@ description: All pages within this space are subject to the below files.
 #    By: dhadding <operas.referee.0e@icloud.com>    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/02/21 08:25:00 by dhadding          #+#    #+#              #
-#    Updated: 2024/03/02 18:17:18 by dhadding         ###   ########.fr        #
+#    Updated: 2024/03/02 23:29:40 by dhadding         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-/*
- * Filename: /Users/pippin-29/kreas_script_project_vine_1.0/COPYRIGHT
- * Path: /Users/pippin-29/kreas_script_project_vine_1.0
- * Created Date: Wednesday, February 21st 2024, 8:24:58 am
- * Author: Daniel haddington
- * 
- * Copyright (c) 2024 Copyright © [2024] [Daniel Haddington]. All rights reserved.
- */
-
- /*
-		If you wish to use this work for scientific or commercial
-		purposes, you may contact me at the above email address.
-
-		You may also be obligated to approach '42' about your
-		wish to collaborate with me.
-
-		All source (src folder) files are covered by this COPYRIGHT file,
-
-		The kreas-script-project-vine repository is purposed to
-		involve entities whom may wish to collaborate with me
-		in a larger capacity.
-
-		There may be implications regarding its use as a tool for
-		scientific endeavour, but its purpose as a commercial product
-		are undefined. It is not intended to be sold.
-
-		The screenshots folder is subject to copyright as of (Sat 24 February 2024 6:47pm).
-
-		The function of this project is considered to be an
-		Angular application.
-		Angular (also referred to as "Angular 2+") is a 
-		TypeScript-based, free and open-source single-page 
-		web application framework led by the Angular Team at 
-		'Google' and by a community of individuals and corporations.
-
-		I thank these entities for the provision of this utility.
- */
-
- /*
-		<vine_3.01>
-		Update to 'COPYRIGHT' file (Sat 2 Mar 6:13pm):
-		Folder(directory) 'mindset' is subject to Copyright © [2024] Daniel Haddington
-
-		as well as all subfolders(subdirectories) within, as follows { 'includes', 'screenshots', 'source' }
-
-		The work detailed within the 'mindset' folder is not intended to be sold.
-
-		The system describing the number set is the 'md' system.
-
-		The 'md' system use the naming convention '_A1' to '_P1' for 1 to 16.
-		The 'md' system use the naming convention 'A_1' to 'P_1' for 17 to 32.
-
-		All further sets are describe in this manner with the integer n (placeholder) describing the index for the set.
-		as follows - '_An' to 'P_n'. Where n = [1, 2, 3, 4, ..., n]
-
-		The first 16 sets have been described, and any pattern analysis that arises from this work is based from my intellectual property
-		and as such, should not be used for the purpose of making money.
-		If, in the case you wish to collaborate with me, i can be reached by my email relay described in the first header of this COPYRIGHT file.
-
-		Regards,
-
-		Daniel Haddington
- */```perl
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    COPYRIGHT                                          :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: dhadding <operas.referee.0e@icloud.com>    +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2024/02/21 08:25:00 by dhadding          #+#    #+#              #
-#    Updated: 2024/03/02 18:25:42 by dhadding         ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
-
-#
-#Filename: /Users/pippin-29/Thynk-Unlimited/kreas_script_project_vine_1.0/COPYRIGHT
-#Path: /Users/pippin-29/Thynk-Unlimited/kreas_script_project_vine_1.0
+#Filename: /Users/pippin-29/Thynk-Unlimited/kreas_script_project_vine-_3.0_-/COPYRIGHT
+#Path: /Users/pippin-29/Thynk-Unlimited/kreas_script_project_vine-_3.0_-
 #Created Date: Wednesday, February 21st 2024, 8:24:58 am
-#Author: Daniel haddington
+#Header Updated: Sat 2nd Mar 11:29pm (DH)
+#Author: Daniel Haddington
 #
 #Copyright (c) 2024 Copyright © [2024] [Daniel Haddington]. All rights reserved.
 #
 
-
  /*
 		If you wish to use this work for scientific or commercial
 		purposes, you may contact me at the above email address.
@@ -114,7 +39,7 @@ description: All pages within this space are subject to the below files.
 
 		All source (src folder) files are covered by this COPYRIGHT file,
 
-		The kreas-script-project-vine repository is purposed to
+		The kreas_script_project_vine-_3.0_- repository is purposed to
 		involve entities whom may wish to collaborate with me
 		in a larger capacity.
 
@@ -159,9 +84,6 @@ description: All pages within this space are subject to the below files.
 
 		Daniel Haddington
  */
-
 ```
-
-````
 
 Documentation within the space 'Krea\`s Script Project' describing( or displaying ) any concept or construct, that I ( DANIEL HADDINGTON ), have instantiated for the purposes of this project, will also be subject to COPYRIGHT (c).
