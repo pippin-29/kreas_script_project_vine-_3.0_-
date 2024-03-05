@@ -14,6 +14,7 @@
 # include <string.h>
 # include <stdlib.h>
 # include <math.h>
+# include <stdbool.h>
 
 typedef unsigned long long u64;
 
@@ -23,15 +24,27 @@ typedef struct s_md
 	int		c;
 	int		d;
 	u64		a;
+	int		Qset;
+	int		MdSet;
+	long	find;		
 	double	value;
+	int		value_c;
+	char	*drop_tail;
+	char	*drop_tail__floor;
+	char	*l;
+	char	*r;
+	int		floored;
+	double	_floor;
+	double	modifier;
+	int		pattern_descriptor;
+	bool	check;
 }	t_md;
 
-#define NO_NAME	  0x00000fff
-#define NO_SET	  0x00000fff
-#define QRANGE	  0x00000020
-#define LIMIT	  0x000fffff
+#define QRANGE	  					0x00000020
+#define MEMORY_ALLOCATION_ERROR		555
+#define OOR							5
+#define SUCCESS						0
 
-#define SKIP	  0
 #define _A		  1
 #define	_B		  2
 #define	_C		  3
@@ -64,6 +77,7 @@ typedef struct s_md
 #define	N_		 30
 #define	O_		 31
 #define	P_		 32
+#define NL		 33
 
 #define _1_		"_A"
 #define	_2_		"_B"
@@ -97,8 +111,17 @@ typedef struct s_md
 #define	_30_	"N_"
 #define	_31_	"O_"
 #define	_32_	"P_"
+#define _33_	"NL"
 
-
-
+int		lstlen(char **list);
+void	error_exit(char *mess, int error_type, t_md *md);
+void	exit_program(int error_type, t_md *md);
+void	free_2d_char(char **f, int len);
+void	init_struct(t_md *md);
+void	drop_float_tail(char *dropee, int drop_size);
+void	printset_modifiers(t_md *md);
+void	Operation(t_md *md);
+void	Check_Op(t_md *md);
+int		isInteger(char *c);
 
 #endif
