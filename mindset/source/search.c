@@ -1,11 +1,12 @@
 /*
- * Filename: /Users/pippin-29/Thynk-Unlimited/kreas_script_project_vine-_3.0_-/mindset/source/md_set[2]-md_set[16].c\002
- * Path: /Users/pippin-29/Thynk-Unlimited/kreas_script_project_vine-_3.0_-
- * Created Date: Sunday, March 3rd 2024, 11:07:07 pm
- * Author: Daniel haddington
+ * Filename: /home/pippin-29/dev_thynk/Thynk-Unlimited/kreas_script_project_vine-_3.0_-/mindset/source/search.c
+ * Path: /home/pippin-29/dev_thynk/Thynk-Unlimited/kreas_script_project_vine-_3.0_-
+ * Created Date: Tuesday, March 12th 2024, 10:13:57 am
+ * Author: Daniel Haddington
  * 
  * Copyright (c) 2024 Copyright © [2024] [Daniel Haddington]. All rights reserved.
  */
+
 
 #include "../includes/mindset_instructions.h"
 

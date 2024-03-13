@@ -1,11 +1,12 @@
 /*
- * Filename: /Users/pippin-29/Thynk-Unlimited/mindset_instructions/source/main.c
- * Path: /Users/pippin-29/Thynk-Unlimited/mindset_instructions/source
- * Created Date: Wednesday, February 28th 2024, 6:44:56 pm
- * Author: Daniel haddington
+ * Filename: /home/pippin-29/dev_thynk/Thynk-Unlimited/kreas_script_project_vine-_3.0_-/mindset/source/8column.c
+ * Path: /home/pippin-29/dev_thynk/Thynk-Unlimited/kreas_script_project_vine-_3.0_-
+ * Created Date: Tuesday, March 12th 2024, 10:13:57 am
+ * Author: Daniel Haddington
  * 
  * Copyright (c) 2024 Copyright © [2024] [Daniel Haddington]. All rights reserved.
  */
+
 
 #include "../includes/mindset_instructions.h"
 
