@@ -1,10 +1,10 @@
 ---
-description: All pages within this space are subject to the below COPYRIGHT statements.
+description: All pages within this space are subject to the below files.
 ---
 
 # COPYRIGHT
 
-Updated Sat 2 Mar 11:27pm
+Updated Sat 12 Mar 2:04 pm
 
 {% embed url="https://github.com/pippin-29/kreas_script_project_vine-_3.0_-" %}
 
