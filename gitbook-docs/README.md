@@ -1,5 +1,5 @@
 ---
-description: All pages within this space are subject to the below files.
+description: All pages within this space are subject to the below COPYRIGHT statements.
 ---
 
 # COPYRIGHT
@@ -17,14 +17,14 @@ Updated Sat 2 Mar 11:27pm
 #    By: dhadding <operas.referee.0e@icloud.com>    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/02/21 08:25:00 by dhadding          #+#    #+#              #
-#    Updated: 2024/03/02 23:29:40 by dhadding         ###   ########.fr        #
+#    Updated: 2024/03/13 13:46:17 by dhadding         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-#Filename: /Users/pippin-29/Thynk-Unlimited/kreas_script_project_vine-_3.0_-/COPYRIGHT
-#Path: /Users/pippin-29/Thynk-Unlimited/kreas_script_project_vine-_3.0_-
-#Created Date: Wednesday, February 21st 2024, 8:24:58 am
-#Header Updated: Sat 2nd Mar 11:29pm (DH)
+#
+#Filename: /home/pippin-29/dev_thynk/Thynk-Unlimited/kreas_script_project_vine-_3.0_-/COPYRIGHT
+#Path: /home/pippin-29/dev_thynk/Thynk-Unlimited/kreas_script_project_vine-_3.0_-
+#Created Date: Tuesday, March 12th 2024, 10:13:57 am
 #Author: Daniel Haddington
 #
 #Copyright (c) 2024 Copyright © [2024] [Daniel Haddington]. All rights reserved.
@@ -33,9 +33,6 @@ Updated Sat 2 Mar 11:27pm
  /*
 		If you wish to use this work for scientific or commercial
 		purposes, you may contact me at the above email address.
-
-		You may also be obligated to approach '42' about your
-		wish to collaborate with me.
 
 		All source (src folder) files are covered by this COPYRIGHT file,
 
