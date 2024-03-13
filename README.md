@@ -1,13 +1,11 @@
 /*
- * Filename: /Users/pippin-29/Thynk-Unlimited/kreas_script_project_vine_1.0/README.md
- * Path: /Users/pippin-29/Thynk-Unlimited/kreas_script_project_vine_1.0
- * Created Date: Saturday, March 2nd 2024, 6:16:10 pm
- * Author: Daniel haddington
+ * Filename: /home/pippin-29/dev_thynk/Thynk-Unlimited/kreas_script_project_vine-_3.0_-/README.md
+ * Path: /home/pippin-29/dev_thynk/Thynk-Unlimited/kreas_script_project_vine-_3.0_-
+ * Created Date: Tuesday, March 12th 2024, 10:13:57 am
+ * Author: Daniel Haddington
  * 
  * Copyright (c) 2024 Copyright © [2024] [Daniel Haddington]. All rights reserved.
  */
-
-
 
 
 # KreasScriptProject
